@@ -59,6 +59,22 @@
   "tokens": [
     {
       "chainId": 101,
+      "address": "53bovFwsd8eFuBd7tYv9gK8qG2FYJwemLP9zwQsVTJSH",
+      "symbol": "ANGELS",
+      "name": "Fallen Angels",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/53bovFwsd8eFuBd7tYv9gK8qG2FYJwemLP9zwQsVTJSH/logo.svg",
+      "tags": [
+        "nft-marketplace",
+        "Governance-token"
+      ],
+      "extensions": {
+        "website": "http://fallenangels.com/",
+        "twitter": "https://twitter.com/fallenangelsxyz"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "AD27ov5fVU2XzwsbvnFvb1JpCBaCB5dRXrczV9CqSVGb",
       "symbol": "REAL",
       "name": "Realy Token",
